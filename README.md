@@ -47,25 +47,26 @@ Download the .pbix file from this repository and open it using Microsoft Power B
 ## Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](Screenshots/executive-overview.png)
+![Executive Overview](Screenshots/Executive%20Overview.png)
 
 ### 2. Delivery Operations
-![Delivery Operations](Screenshots/delivery-operations.png)
+![Delivery Operations](Screenshots/Delivery%20Operations.png)
 
 ### 3. Fleet Performance
-![Fleet Performance](Screenshots/fleet-performance.png)
+![Fleet Performance](Screenshots/Fleet%20Performance.png)
 
 ### 4. Driver Performance
-![Driver Performance](Screenshots/driver-performance.png)
+![Driver Performance](Screenshots/Driver%20Performance.png)
 
 ### 5. Maintenance & Safety
-![Maintenance & Safety](Screenshots/maintenance-safety.png)
+![Maintenance & Safety](Screenshots/Maintenance%20%26%20Safety.png)
 
-### 6. Customer & Facility
-![Customer & Facility Analysis](Screenshots/customer-facility.png)
+### 6. Customer & Facility Analysis
+![Customer & Facility Analysis](Screenshots/Customer%20%26%20Facility%20Analysis.png)
 
-### 7. Trip & Route Analysis
-![Trip & Route Analysis](Screenshots/trip-route-analysis.png)
+### 7. Trips & Route Analysis
+![Trips & Route Analysis](Screenshots/Trips%20%26%20Route%20Analysis.png)
+
 ## Author
 Joshua Edeh
 
