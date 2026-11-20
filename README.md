@@ -44,6 +44,28 @@ The dashboard consists of seven interactive pages:
 ## How to Explore
 Download the .pbix file from this repository and open it using Microsoft Power BI Desktop to interact with the complete dashboard.
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Screenshots/executive-overview.png)
+
+### 2. Delivery Operations
+![Delivery Operations](Screenshots/delivery-operations.png)
+
+### 3. Fleet Performance
+![Fleet Performance](Screenshots/fleet-performance.png)
+
+### 4. Driver Performance
+![Driver Performance](Screenshots/driver-performance.png)
+
+### 5. Maintenance & Safety
+![Maintenance & Safety](Screenshots/maintenance-safety.png)
+
+### 6. Customer & Facility
+![Customer & Facility Analysis](Screenshots/customer-facility.png)
+
+### 7. Trip & Route Analysis
+![Trip & Route Analysis](Screenshots/trip-route-analysis.png)
 ## Author
 Joshua Edeh
 
